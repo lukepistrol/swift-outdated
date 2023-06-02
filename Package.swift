@@ -19,7 +19,7 @@ let package = Package(
         .package(url: "https://github.com/johnsundell/ShellOut.git", from: "2.3.0"),
         .package(url: "https://github.com/johnsundell/Files.git", from: "4.0.0"),
         .package(url: "https://github.com/scottrhoyt/SwiftyTextTable.git", from: "0.9.0"),
-        .package(url: "https://github.com/onevcat/Rainbow.git", from: "3.0.0"),
+        .package(url: "https://github.com/onevcat/Rainbow.git", from: "4.0.0"),
     ],
     targets: [
         .executableTarget(
